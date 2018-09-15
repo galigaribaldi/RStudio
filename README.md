@@ -1,4 +1,5 @@
 # RStudio
+![R](http://www.masterbigdataonline.com/images/R_logo.svg.png)
 ## Introducción
 ### Manejo de Scripts con el Lenguaje R y usando RStudio
 
